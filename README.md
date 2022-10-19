@@ -9,5 +9,5 @@ I work on applying machine learning and statistics, with a specific focus on app
 
 ## Contact details 
 
-jo816@ic.ac.uk
+email: <jo816@ic.ac.uk>
 
