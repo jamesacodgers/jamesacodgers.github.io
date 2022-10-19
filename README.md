@@ -1,6 +1,6 @@
-## Biography 
+<!-- ## Biography 
 
-I am currently a PhD student at Imperial College London, supervised by [Prof. Ruth Misener](https://www.imperial.ac.uk/people/r.misener) and [Dr. Sarah Filippi.](https://www.imperial.ac.uk/people/s.filippi). My PhD is a collaboration with Eli Lilly, where I collaborate with [Dr. Salvador García Muñoz](https://scholar.google.com/citations?user=L-7xA40AAAAJ&hl). 
+I am currently a PhD student at Imperial College London, supervised by [Prof. Ruth Misener](https://www.imperial.ac.uk/people/r.misener) and [Dr. Sarah Filippi.](https://www.imperial.ac.uk/people/s.filippi). My PhD is a collaboration with Eli Lilly, where I collaborate with [Dr. Salvador García Muñoz](https://scholar.google.com/citations?user=L-7xA40AAAAJ&hl).  -->
 
 
 ## Research interests
