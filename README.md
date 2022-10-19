@@ -4,7 +4,7 @@
 
 ## Biography 
 
-I am currently a PhD student at Imperial College London, supervised by (Prof. Ruth Misener)[https://www.imperial.ac.uk/people/r.misener] and (Dr. Sarah Filippi.)[https://www.imperial.ac.uk/people/s.filippi]
+I am currently a PhD student at Imperial College London, supervised by [Prof. Ruth Misener](https://www.imperial.ac.uk/people/r.misener) and [Dr. Sarah Filippi.](https://www.imperial.ac.uk/people/s.filippi)
 ## Research interests
 
 ## Publications 
