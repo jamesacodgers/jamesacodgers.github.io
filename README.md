@@ -1,15 +1,13 @@
-# James Odgers
-![KA208122 (1)](https://user-images.githubusercontent.com/35336532/196725414-837f5d76-5b47-463b-a515-cbb07aab1563.jpg)
-
-
 ## Biography 
 
-I am currently a PhD student at Imperial College London, supervised by [Prof. Ruth Misener](https://www.imperial.ac.uk/people/r.misener) and [Dr. Sarah Filippi.](https://www.imperial.ac.uk/people/s.filippi)
+I am currently a PhD student at Imperial College London, supervised by [Prof. Ruth Misener](https://www.imperial.ac.uk/people/r.misener) and [Dr. Sarah Filippi.](https://www.imperial.ac.uk/people/s.filippi). My PhD is a collaboration with Eli Lilly, where I collaborate with [Dr. Salvador García Muñoz](https://scholar.google.com/citations?user=L-7xA40AAAAJ&hl). 
+
+
 ## Research interests
 
-## Publications 
+I work on applying machine learning and statistics, with a specific focus on applying probabilistic methods to engineering problems. 
 
 ## Contact details 
 
-email: jo816@ic.ac.uk
+jo816@ic.ac.uk
 
