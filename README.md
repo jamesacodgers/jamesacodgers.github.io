@@ -9,7 +9,6 @@ Previously I was a PhD student at Imperial College London, supervised by [Prof. 
 | | |
 |---|----|
 |2025 - _present_|Postdoc researcher at Helmholtz Munich|
-|2016-2020 |MSci. in Physics at Imperial College London |
 | 2020-2025|PhD. in Statistics and Machine Learning at imperial college london|
 |2016-2020 |MSci. in Physics at Imperial College London |
 
