@@ -13,6 +13,12 @@ Previously I was a PhD student at Imperial College London, supervised by [Prof. 
 |2016-2020 |MSci. in Physics at Imperial College London |
 
 
+## Links
+
+[github](https://github.com/jamesacodgers)
+[linkedin](https://www.linkedin.com/in/james-odgers-48692315a/)
+[google scholar](https://scholar.google.com/citations?user=hptXR8AAAAAJ&hl=en)
+
 
 ## Contact details 
 
